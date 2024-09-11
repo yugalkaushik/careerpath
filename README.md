@@ -1,1 +1,1 @@
-hi
+CareerPath: Career counselling and guidance platform
